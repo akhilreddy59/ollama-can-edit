@@ -26,10 +26,8 @@ A privacy-first, zero-dependency, open-source AI developer engine that sits dire
 You can run this application instantly inside any development project workspace without downloading or installing any local files manually by typing this single command:
 
 ```bash
-curl -sSL https://githubusercontent.com | python3
+curl -sSL https://github.com/akhilreddy59/ollama-can-edit.git | python3
 ```
-
-*(Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username once you create your repository).*
 
 ## 🛠️ Prerequisites
 1. **Python 3** installed on your system path.
